@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.crankysupertoon.fabricloadingscreen.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "client.gui.screen.SplashScreenMixin",
+    "client.gui.screen.TitleScreenMixin",
+    "client.util.WindowMixin",
+    "client.gui.screen.world.CreateWorldScreenMixin",
+    "client.gui.screen.world.SelectWorldScreenMixin",
+    "client.options.GameOptionsMixin",
+    "client.RunArgsMixin",
+    "client.main.MainMixin",
+    "client.MinecraftClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

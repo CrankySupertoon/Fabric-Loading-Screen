@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.crankysupertoon.fabricloadingscreen.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "world.level.LevelInfoMixin",
+    "world.level.LevelPropertiesMixin",
+    "world.GameRules$IntRuleAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

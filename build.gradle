@@ -4,9 +4,9 @@ plugins {
     id "signing"
 }
 
-group = "com.jamieswhiteshirt"
-archivesBaseName = "developer-mode"
-version = "1.0.15"
+group = "com.crankysupertoon"
+archivesBaseName = "fabricloadingscreen"
+version = "1.0.0"
 
 sourceCompatibility = targetCompatibility = JavaVersion.VERSION_1_8
 

@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "id": "developer-mode",
-  "name": "Developer Mode",
-  "description": "A few things to make development easier.",
-  "version": "1.0.15",
-  "icon": "assets/developer-mode/icon.png",
+  "id": "fabricloadingscreen",
+  "name": " Fabric Loading Screen",
+  "description": "Customize that ugly White Loading Screen.",
+  "version": "1.0.0",
+  "icon": "assets/fabricloadingscreen/icon.png",
   "contact": {
-    "issues": "http://github.com/JamiesWhiteShirt/developer-mode/issues",
-    "sources": "http://github.com/JamiesWhiteShirt/developer-mode"
+    "issues": "https://github.com/CrankySupertoon/LoadingScreen-Tweaks-Fabric/issues",
+    "sources": "https://github.com/CrankySupertoon/LoadingScreen-Tweaks-Fabric"
   },
   "entrypoints": {
     "client": [
-      "com.jamieswhiteshirt.developermode.client.DeveloperModeClient"
+      "com.crankysupertoon.fabricloadingscreen.client.FabricLoadingScreenClient"
     ]
   },
   "depends": {
@@ -19,7 +19,7 @@
     "fabric-resource-loader-v0": "*"
   },
   "mixins": [
-    "mixins.developer-mode.client.json",
-    "mixins.developer-mode.common.json"
+    "mixins.fabricloadingscreen.client.json",
+    "mixins.fabricloadingscreen.common.json"
   ]
 }

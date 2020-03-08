@@ -26,7 +26,7 @@ Below you will find anything you need to know. If you want to download a build y
 
 ## 🎓 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ## Credits
 

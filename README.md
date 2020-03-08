@@ -15,20 +15,24 @@ Below you will find anything you need to know. If you want to download a build y
 
 - **Bonus:** Each world now has a button to set game rules before you log in.
 
+## ⬇️ Downloads
+Latest: [Can be found here]( https://www.curseforge.com/minecraft/mc-mods/fabric-loading-screen)
 
-## 🚀 Built and managed with 
+## 📦 Modpacks
+* Sure, provide a link to this github or [here]( https://www.curseforge.com/minecraft/mc-mods/fabric-loading-screen).
+
+## 🗝 Built and managed with 
 
 * [Github](http://www.github.com/) - Git Service
 * [IntellIJ IDEA 2019.3](https://www.jetbrains.com/idea/download/) - IDE
 * [Fabric API](https://fabricmc.net//) - Modding Tool
 * [Minecraft](https://www.minecraft.net/) - Engine
 
-
 ## 🎓 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
-## Credits
+## 📃 Credits
 
 - JamiesWhiteShirt, for making the wonderful Developer Mode mod
 
